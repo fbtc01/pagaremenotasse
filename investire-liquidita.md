@@ -9,7 +9,7 @@ Un azienda dovrebbe sempre preferire investire la liquidità per investimenti in
 Ecco i passaggi operativi:
 
 1. **Scrivere verbale tra soci**\
-   Se siete più soci è necessario mettere per scritto chi verrà delegato uno dei soci (o persona esterna) alla gestione della liquidità. E' consigliabile anche mettere per iscritto le classi degli strumenti finanziari che potrà usare (es. Titoli governativi IT, Azioni, Indici, Futures, opzioni etc..).&#x20;
+   E' necessario mettere per scritto chi verrà delegato alla gestione della liquidità della società. E' consigliabile anche mettere per iscritto le classi degli strumenti finanziari che potrà usare (es. Titoli governativi, Azioni, Indici, Futures, opzioni etc..).
 2. **Apertura codice LEI** (70€) e da rinnovare ogni anno. \
    [https://lei-italy.infocamere.it/leid/](https://lei-italy.infocamere.it/leid/)
 3. **Apertura conto titoli aziendale** \
@@ -21,9 +21,9 @@ Ecco i passaggi operativi:
 
 Tutte le plusvalenze sono tassate in **IRES (24%)** e si compensano con i redditi operativi della società. I titoli di stato non sono tassati al 12.5% perchè è una convenzione solo per i privati. In generale la tassazione è leggermente inferiore del caso di privato che è al 26%.&#x20;
 
-### Distribuire utili o re-investire la liquidità?
+### Conviene investire con la società o con persona fisica?
 
-Il guadagno principale dal reinvestimento degli utili non distribuiti proviene dal posticipare negli anni il pagamento dell'imposta del 26% che produce un effetto composto e un maggiore guadagno netto su persona fisica dopo alcuni anni. \
+Nel caso in cui la società investa in titoli di stato governativi (BOT/BTP) allora non c'è una convenienza a farlo con la società. Anzi conviene distribuire e farlo con persona fisica. Questo perchè, nonostante si abbia un capitale maggiore di partenza dato dal risparmio delle imposte del 26%, la tassazione per persona fisica sui titoli di stato è del 12.5% contro il 24% (IRES) per azienda.\
 \
 Ipotizziamo il caso in cui la società produce 100.000€ di utili e li distribuisca interamente ai soci attraverso i dividendi. I soci pagano il 26% di imposte e ricevono un netto di 74.000€ alla loro persona fisica.
 
@@ -36,21 +36,30 @@ Ipotizziamo il caso in cui la società produce 100.000€ di utili e li distribu
 
 Vediamo invece il caso in cui la società non distribuisca immediatamente gli utili, ma li re-investe in titoli di stato a basso rischio al 2% di rendimento lordo  e poi vengono distribuiti ai soci dopo 3 anni. Il netto su persona fisica è di **78.600€** rispetto a **74.000€** nel caso precedente.
 
-|                                 | Anno 0    | Anno 1    | Anno 2    | Anno 3       |
-| ------------------------------- | --------- | --------- | --------- | ------------ |
-| Utili                           | € 100.000 |           |           |              |
-| Riserva                         | € 100.000 | € 101.520 | € 103.063 | € 104.630    |
-| Cedola investimento (2%)        | € 2.000   | € 2.030   | € 2.061   | € 2.093      |
-| IRES cedola (24%)               | -€ 480    | -€ 487    | -€ 495    | -€ 502       |
-| Totale riserve non distribuite  | € 101.520 | € 103.063 | € 104.630 | € 106.220    |
-| Tassa distribuzione utili (26%) | 0         | 0         | 0         | -€ 27.617    |
-| Netto persona fisica            | 0         | 0         | 0         | **€ 78.603** |
+|                                 |     | Anno 0    | Anno 1    | Anno 2    | Anno 3    |
+| ------------------------------- | --- | --------- | --------- | --------- | --------- |
+| Utili                           |     | € 100.000 |           |           |           |
+| Riserva                         |     | € 100.000 | € 101.520 | € 103.063 | € 104.630 |
+| Cedola investimento             | 2%  | € 2.000   | € 2.030   | € 2.061   | € 2.093   |
+| IRES cedola (24%)               | 24% | -€ 480    | -€ 487    | -€ 495    | -€ 502    |
+| Totale riserve non distribuite  |     | € 101.520 | € 103.063 | € 104.630 | € 106.220 |
+| Tassa distribuzione utili (26%) | 26% | 0         | 0         | 0         | -€ 27.617 |
+| Netto persona fisica            |     | 0         | 0         | 0         | € 78.603  |
 
-Il problema è che sono passati anche 3 anni, e anche i singoli soci avrebbero potuto investire personalmente in titoli di stato al 2% annuale pagando però il 12.5% di tassazione (anzichè il 24% di IRES). Conveniva?
-
-
+Questo però deve essere confrontato con il caso in cui la società distribuisca gli utili ogni anno, la persona fisica investa nello stesso titolo governativo italiano al 2% con una tassazione del 12.5%. Otteniamo che il valore finale è leggermente superiore. \
 
 
+|                                     |        | Anno 0    | Anno 1   | Anno 2   | Anno 3       |
+| ----------------------------------- | ------ | --------- | -------- | -------- | ------------ |
+| Utili                               |        | € 100.000 |          |          |              |
+| Riserva                             |        | € 0       |          |          |              |
+| Tassa distribuzione utili (26%)     | 26%    | -€ 26.000 |          |          |              |
+| Portafoglio persona fisisca         |        | € 74.000  | € 75.295 | € 76.613 | € 77.953     |
+| Re-investimento persona fisica (2%) | 2%     | € 1.480   | € 1.506  | € 1.532  | € 1.559      |
+| Tasse cedole 12.5%                  | 12,50% | -€ 185    | -€ 188   | -€ 192   | -€ 195       |
+| Netto persona fisica                |        | € 75.295  | € 76.613 | € 77.953 | **€ 79.318** |
+
+Pertanto, se si prevede di mantenere la riserva utili e investirla in titoli di Stato italiano e poi alla fine distribuirla allora è più conveniente fare l'investimento direttamente come persona fisica in quanto la tassazione è minore. &#x20;
 
 
 
