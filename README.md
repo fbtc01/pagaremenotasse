@@ -1,61 +1,31 @@
----
-description: Come ottenere un rendimento dalla liquidità aziendale inutilizzata
----
+# Royalties software
 
-# Investire liquidità
+> **Le indicazioni in questa pagina potrebbero essere imprecise. Contattare il proprio consulente fiscale per verificare l'idoneità della strategia e la corretta tassazione. La non corretta applicazione della regolamentazione potrebbe farti incorrere in sanzioni.**
 
-Un azienda dovrebbe sempre preferire investire la liquidità per investimenti interni come nuove tecnologie che aumentano la produttività, la qualità del prodotto o l'efficienza. Quando non ci sono investimenti disponibili, o in attesa di questa, è molto sensato investire la liquidità in investimenti a breve termine a basso rischio.&#x20;
+Se la tua società utilizza un software che è stato sviluppato dai soci allora quest'ultimi potrebbero ricevere un incasso dalla società con una tassazione del **12-15%.**&#x20;
 
-### Investire la liquidità durante l'anno
+**Ecco come procedere**
 
-Investire ogni mese la liquidità in eccesso in BOT con scadenza Dicembre aumenta l'utile pari a circa la metà del tasso d'interessa annuale.  \
-Ad esempio, in questo momento il [BOT a 12 mesi](https://it.tradingview.com/symbols/TVC-IT01Y/) rende il 2.33% quindi, approsimativamente, puoi aspettarti un 1.16% in più di utile.
-
-\
-![](<.gitbook/assets/Screenshot 2025-03-17 at 21.26.23.png>)
-
-\
-**Ecco come funziona la strategia**
-
-1. Ogni mese, da Gennaio a Dicembre, calcoli l'utile che prevedi verrà distribuito o accantonato l'anno successivo e lo trasferisci nel tuo [conto titoli aziendale](investire-liquidita/apertura-conto.md) (Directa).
-2. Vai su Directa e acquisti il [BOT ZC DEC 25 ](https://www.borsaitaliana.it/borsa/obbligazioni/mot/bot/scheda/IT0005627853.html?lang=it)\
+1. **Deposito presso SIAE**\
+   Il socio che ha sviluppato il software deve metterlo su un CD-ROM (si, quello di una volta) e consegnarlo alla SIAE nella richiesta di inserimento nel Pubblico Registro Software. \
+   Ci sono vari moduli da compilare e 117€ di costi amministrativi. \
+   Trovate più informazioni presso il sito della SIAE: \
+   [https://www.siae.it/it/cosa-facciamo/altri-servizi/pubblico-registro-software/](https://www.siae.it/it/cosa-facciamo/altri-servizi/pubblico-registro-software/)\
    \
-   ![](<.gitbook/assets/Screenshot 2025-03-17 at 21.40.22.png>)
-3. Ripeti per ogni mese dell'anno
-4. A metà dicembre il BOT andrà a maturazione. Non verrà addebitato l'imposta di bollo titolo dello 0.2% perchè non avrai nulla investito il 31 Dicembre. In Directa è necessario entrare nel profilo utente ogni trimestre per confermare di voler pagare i bollo annualmente anziché trimestralmente.
+   Attenzione **- La registrazione del software deve essere fatto dalla PERSONA FISICA e NON dalla società. Se sbagliate questo passaggio perde tutto il vantaggio.**\
 
-Il rendimento non sarà esattamente 2.3% perchè mano a mano che trascorrono i mesi da Gennaio a Dicembre investirai per un periodo sempre minore (12 mesi, 11 mesi,...1 mese) e quindi avrai anche un frazione del rendimento. Approssimativamente, puoi pensare che il rendimento annuale è la metà di quello che vedi annuale. Gli ultimi 6 mesi investirai al tasso [semestrale](https://it.tradingview.com/symbols/TVC-IT06MY/), [trimestrale](https://it.tradingview.com/symbols/TVC-IT03MY/).
+2. **Contratto di licenza d'uso**\
+   E' un contratto per cui la persona fisica, che ha sviluppato e registrato il software a suo nome, lo andrà a concedere in lincenza alla software la quale potrà usarlo con un pagamento di un canone. Nel contratto deve essere indicato il numero di registro e data che avete ricevuto dalla SIAE. \
+   \
+   **Attenzione** - Poichè si tratta di un contratto tra un socio e la sua stessa società è facile sovrastimare il valore. E' consigliato rimanere su un canone che sia non più del **3-5%** del fatturato annuale della società.  L'importo può essere fisso (es. 2000€/mese) e/o come percentuale del fatturato generato grazie al software. \
+   \
+   Template contratto: [https://www.lexdo.it/modello/contratto-licenza-di-uso/](https://www.lexdo.it/modello/contratto-licenza-di-uso/)\
 
-Rendimenti BOT
-
-* 1 anno:  [https://it.tradingview.com/symbols/TVC-IT01Y/](https://it.tradingview.com/symbols/TVC-IT01Y/)
-* 6 mesi - [https://it.tradingview.com/symbols/TVC-IT06MY/](https://it.tradingview.com/symbols/TVC-IT06MY/)
-* 3 mesi - [https://it.tradingview.com/symbols/TVC-IT03MY/](https://it.tradingview.com/symbols/TVC-IT03MY/)
-
-#### Conviene disinvestire a Dicembre per non pagare il bollo titoli 0.2%?&#x20;
-
-L'[imposta di bollo](https://www.directa.it/pub2/it/faq/bolli.html) sul conto titoli di 0.2% viene applicata il 31 dicembre sul totale investito in quel momento. Potresti quindi chiederti se convenga vendere tutto alla data di maturazione del 12 Dicembre, e poi riacquistare a Gennaio. \
-\
-Rimanere disinvestito per 2 settimane equivalgono a 2/52 del tasso annuale. Se ipotizziamo che il tasso annuale sia del 2.33%, allora avrei un rendimento settimanale di 2.33%/52=0.04%. Quindi 0.08% per 2 settimane. Poichè è inferiore al 0.2% allora è più conveniente rimanere disinvestito che pagare il bollo.  Conviene rimanere investiti e pagare il bollo solo per rendimenti annuali oltre i 5.2%.
-
-
-
-
-
-{% content-ref url="investire-liquidita/apertura-conto.md" %}
-[apertura-conto.md](investire-liquidita/apertura-conto.md)
-{% endcontent-ref %}
-
-{% content-ref url="investire-liquidita/tassazione-investimenti-finanziari.md" %}
-[tassazione-investimenti-finanziari.md](investire-liquidita/tassazione-investimenti-finanziari.md)
-{% endcontent-ref %}
-
-{% content-ref url="investire-liquidita/investire-come-azienda-vs-privato.md" %}
-[investire-come-azienda-vs-privato.md](investire-liquidita/investire-come-azienda-vs-privato.md)
-{% endcontent-ref %}
-
-
-
+3. **Pagamento**\
+   In base alle scadenze di pagamento che sono state pattuite dovrete emettere una notula con la quale effettuate il pagamento dalla società alla persona fisica. Il mese successivo verranno addebitate le imposte. \
+   La tassazione è del 15%, ma se siete under 35 arriva a 12%. Quindi ad esempio, la società spende 10.000€ e la persona fisica riceve 8.800€ netti.\
+   [https://www.ilcommercialistaonline.it/royalties-e-diritto-dautore-qual-e-il-trattamento-fiscale/](https://www.ilcommercialistaonline.it/royalties-e-diritto-dautore-qual-e-il-trattamento-fiscale/)\
+   \
 
 
 
