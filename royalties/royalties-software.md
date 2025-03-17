@@ -1,5 +1,11 @@
 # Royalties software
 
+
+
+> **Le indicazioni in questa pagina potrebbero essere imprecise. Contattare il proprio consulente fiscale per verificare l'idoneità della strategia e la corretta tassazione.**
+
+
+
 Se la tua società utilizza un software che è stato sviluppato dai soci allora quest'ultimi potrebbero ricevere un incasso dalla società con una tassazione del **12-15%.**&#x20;
 
 **Ecco come procedere**
