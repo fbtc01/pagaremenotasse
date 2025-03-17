@@ -22,7 +22,7 @@ Ad esempio, in questo momento il [BOT a 12 mesi](https://it.tradingview.com/symb
    \
    ![](<.gitbook/assets/Screenshot 2025-03-17 at 21.40.22.png>)
 3. Ripeti per ogni mese dell'anno
-4. A metà dicembre il BOT andrà a maturazione. Non verrà addebitato l'imposta di bollo titolo dello 0.2% perchè non avrai nulla investito il 31 Dicembre.&#x20;
+4. A metà dicembre il BOT andrà a maturazione. Non verrà addebitato l'imposta di bollo titolo dello 0.2% perchè non avrai nulla investito il 31 Dicembre. In Directa è necessario entrare nel profilo utente ogni trimestre per confermare di voler pagare i bollo annualmente anziché trimestralmente.
 
 Il rendimento non sarà esattamente 2.3% perchè mano a mano che trascorrono i mesi da Gennaio a Dicembre investirai per un periodo sempre minore (12 mesi, 11 mesi,...1 mese) e quindi avrai anche un frazione del rendimento. Approssimativamente, puoi pensare che il rendimento annuale è la metà di quello che vedi annuale. Gli ultimi 6 mesi investirai al tasso [semestrale](https://it.tradingview.com/symbols/TVC-IT06MY/), [trimestrale](https://it.tradingview.com/symbols/TVC-IT03MY/).
 
