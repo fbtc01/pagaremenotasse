@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Pagare meno tasse](README.md)
+* [Le imposte per le imprese](le-imposte-per-le-imprese.md)
 
 ## Benefits
 
