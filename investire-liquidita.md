@@ -19,7 +19,26 @@ Ecco i passaggi operativi:
 
 ### Tassazione
 
-Tutte le plusvalenze sono tassate in IRES (24%) e si compensano con i redditi operativi della società. I titoli di stato non sono tassati al 12.5% perchè è una convenzione solo per i privati. In generale la tassazione è leggermente inferiore del caso di privato che è al 26%.&#x20;
+Tutte le plusvalenze sono tassate in **IRES (24%)** e si compensano con i redditi operativi della società. I titoli di stato non sono tassati al 12.5% perchè è una convenzione solo per i privati. In generale la tassazione è leggermente inferiore del caso di privato che è al 26%.&#x20;
+
+### Distribuire utili o re-investire la liquidità?
+
+Il guadagno principale dal reinvestimento degli utili non distribuiti proviene dal posticipare negli anni il pagamento dell'imposta del 26% che produce un effetto composto e un maggiore guadagno netto su persona fisica dopo alcuni anni. \
+\
+Ipotizziamo il caso in cui la società produce 100.000€ di utili e li distribuisca interamente ai soci attraverso i dividendi. I soci pagano il 26% di imposte e ricevono un netto di 74.000€ alla loro persona fisica.
+
+|                                 | Anno 0    |
+| ------------------------------- | --------- |
+| Utili                           | € 100.000 |
+| Riserva                         | € 0       |
+| Tassa distribuzione utili (26%) | -€ 26.000 |
+| Netto persona fisica            | € 74.000  |
+
+
+
+
+
+
 
 ### Quali strumenti acquistare
 
