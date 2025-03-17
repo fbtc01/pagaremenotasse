@@ -1,5 +1,5 @@
 ---
-description: Come aprire il conto titoli per aziende
+description: Ecco i passaggi per aprire il conto titoli per aziende
 ---
 
 # Apertura conto

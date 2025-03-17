@@ -6,10 +6,10 @@ description: Come ottenere un rendimento dalla liquidità aziendale inutilizzata
 
 Un azienda dovrebbe sempre preferire investire la liquidità per investimenti interni come nuove tecnologie che aumentano la produttività, la qualità del prodotto o l'efficienza. Quando non ci sono investimenti disponibili, o in attesa di questa, è molto sensato investire la liquidità in investimenti a breve termine a basso rischio.&#x20;
 
-### Investire la liquidità durante l'anno riduce la tassazione?
+### Investire la liquidità durante l'anno
 
 Investire ogni mese la liquidità in eccesso in BOT con scadenza Dicembre aumenta l'utile pari a circa la metà del tasso d'interessa annuale.  \
-Ad esempio, in questo momento il [BOT a 12 mesi](https://it.tradingview.com/symbols/TVC-IT01Y/) rende il 2.33 quindi, approsimativamente, puoi aspettarti un 1.16% in più di utile.
+Ad esempio, in questo momento il [BOT a 12 mesi](https://it.tradingview.com/symbols/TVC-IT01Y/) rende il 2.33% quindi, approsimativamente, puoi aspettarti un 1.16% in più di utile.
 
 \
 ![](<.gitbook/assets/Screenshot 2025-03-17 at 21.26.23.png>)
@@ -17,7 +17,7 @@ Ad esempio, in questo momento il [BOT a 12 mesi](https://it.tradingview.com/symb
 \
 **Ecco come funziona la strategia**
 
-1. Ogni mese, da Gennaio a Dicembre, calcoli l'utile che prevedi verrà distribuito o accantonato l'anno successivo e lo transferisci nel tuo [conto titoli aziendale](investire-liquidita/apertura-conto.md)
+1. Ogni mese, da Gennaio a Dicembre, calcoli l'utile che prevedi verrà distribuito o accantonato l'anno successivo e lo trasferisci nel tuo [conto titoli aziendale](investire-liquidita/apertura-conto.md) (Directa).
 2. Acquisto il BOT ZC DEC 25&#x20;
 3. Ripeti per ogni mese dell'anno
 4. A metà dicembre il BOT andrà a maturazione. Non verrà addebitato l'imposta di bollo titolo dello 0.2% perchè non avrai nulla investito il 31 Dicembre.&#x20;
