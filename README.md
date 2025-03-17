@@ -4,7 +4,7 @@ description: Guide per il risparmio fiscale per imprenditori italiani
 
 # Pagare meno tasse
 
-In Italia, la pressione fiscale per un imprenditore arriva al [**53%**](le-imposte-per-le-imprese.md).&#x20;
+In Italia, la pressione fiscale per un imprenditore arriva al [4&#x37;**%**](le-imposte-per-le-imprese.md).&#x20;
 
 Tuttavia, esistono strategie legali per ridurre il carico fiscale, spesso poco conosciute e scoperte troppo tardi, magari parlando con altri imprenditori. Quante volte ti sei chiesto: _“Ma perché il mio commercialista non me l’ha detto?”_
 
