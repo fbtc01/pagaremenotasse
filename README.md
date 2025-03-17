@@ -25,7 +25,7 @@ Per aggiungere una guida clicca su "Aggiungi file"
 Per modificare un contenuto esiste clicca su "Fork & Edit"\
 
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/Screenshot 2025-03-17 at 22.22.31.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src=".gitbook/assets/Screenshot 2025-03-17 at 22.22.31.png" alt=""><figcaption></figcaption></figure></div>
 
 Dopo che hai finito clicca su "Commit changes"
 
