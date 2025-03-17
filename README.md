@@ -18,7 +18,7 @@ Ad esempio, in questo momento il [BOT a 12 mesi](https://it.tradingview.com/symb
 **Ecco come funziona la strategia**
 
 1. Ogni mese, da Gennaio a Dicembre, calcoli l'utile che prevedi verrà distribuito o accantonato l'anno successivo e lo trasferisci nel tuo [conto titoli aziendale](investire-liquidita/apertura-conto.md) (Directa).
-2. Acquisto il [BOT ZC DEC 25 ](https://www.borsaitaliana.it/borsa/obbligazioni/mot/bot/scheda/IT0005627853.html?lang=it)\
+2. Vai su Directa e acquisti il [BOT ZC DEC 25 ](https://www.borsaitaliana.it/borsa/obbligazioni/mot/bot/scheda/IT0005627853.html?lang=it)\
    \
    ![](<.gitbook/assets/Screenshot 2025-03-17 at 21.40.22.png>)
 3. Ripeti per ogni mese dell'anno
