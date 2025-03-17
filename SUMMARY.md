@@ -1,8 +1,14 @@
 # Table of contents
 
+* [Pagare meno tasse](README.md)
+
+## Benefits
+
+* [Buoni regalo <50€](benefits/buoni-regalo-less-than-50eur.md)
+
 ## Royalties
 
-* [Royalties software](README.md)
+* [Royalties software](royalties/royalties-software.md)
 
 ## Investire liquidità
 
@@ -11,7 +17,3 @@
 * [Tassazione investimenti finanziari](investire-liquidita/tassazione-investimenti-finanziari.md)
 * [Investire come azienda vs privato](investire-liquidita/investire-come-azienda-vs-privato.md)
 * [Strumenti finanziari](investire-liquidita/strumenti-finanziari.md)
-
-## Benefits
-
-* [Buoni regalo <50€](benefits/buoni-regalo-less-than-50eur.md)
