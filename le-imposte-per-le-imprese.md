@@ -1,6 +1,6 @@
 # Le imposte per le imprese
 
-Le imposte per un impresa SRL sono del 47%.  Ecco come sono formate.
+Le imposte totali per un impresa SRL sono del **47%**.  Ecco come sono formate.
 
 |                                  |                    |                                               |
 | -------------------------------- | ------------------ | --------------------------------------------- |
