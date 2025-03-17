@@ -18,4 +18,12 @@ Così è nata questa wiki gratuita e libera che è stata scritta da imprenditori
 
 Se sei un imprenditore o consulente fiscale e vuoi diffondere la conoscenza ad altri imprenditori allora puoi farlo liberamente. Ecco come aggiungere/modificare articoli
 
-*
+* Vai al link su github [https://github.com/fbtc01/pagaremenotasse](https://github.com/fbtc01/pagaremenotasse)
+* Seleziona il file da modificare e clicca su "Fork & Edit". Dovrai essere iscritto a Github (è gratis). \
+  ![](<.gitbook/assets/Screenshot 2025-03-17 at 22.22.31.png>)\
+  \
+  Se invece vuoi aggiungere un nuovo articolo clicca su "Aggiungi file".\
+  ![](<.gitbook/assets/Screenshot 2025-03-17 at 22.24.09.png>)
+* Dopo che hai finito clicca su "Commit changes"\
+  ![](<.gitbook/assets/Screenshot 2025-03-17 at 22.25.04.png>)
+* Il contenuto andrà in approvazione e in caso sarà pubblicato sul sito.
