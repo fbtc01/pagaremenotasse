@@ -8,7 +8,7 @@ Un azienda dovrebbe sempre preferire investire la liquidità per investimenti in
 
 Ecco i passaggi operativi:
 
-1. **Verbale tra soci**\
+1. **Scrivere verbale tra soci**\
    Se siete più soci è necessario mettere per scritto chi verrà delegato uno dei soci (o persona esterna) alla gestione della liquidità. E' consigliabile anche mettere per iscritto le classi degli strumenti finanziari che potrà usare (es. Titoli governativi IT, Azioni, Indici, Futures, opzioni etc..).&#x20;
 2. **Apertura codice LEI** (70€) e da rinnovare ogni anno. \
    [https://lei-italy.infocamere.it/leid/](https://lei-italy.infocamere.it/leid/)
@@ -33,6 +33,20 @@ Ipotizziamo il caso in cui la società produce 100.000€ di utili e li distribu
 | Riserva                         | € 0       |
 | Tassa distribuzione utili (26%) | -€ 26.000 |
 | Netto persona fisica            | € 74.000  |
+
+Vediamo invece il caso in cui la società non distribuisca immediatamente gli utili, ma li re-investe in titoli di stato a basso rischio al 2% di rendimento lordo  e poi vengono distribuiti ai soci dopo 3 anni. Il netto su persona fisica è di **78.600€** rispetto a **74.000€** nel caso precedente.
+
+|                                 | Anno 0    | Anno 1    | Anno 2    | Anno 3       |
+| ------------------------------- | --------- | --------- | --------- | ------------ |
+| Utili                           | € 100.000 |           |           |              |
+| Riserva                         | € 100.000 | € 101.520 | € 103.063 | € 104.630    |
+| Cedola investimento (2%)        | € 2.000   | € 2.030   | € 2.061   | € 2.093      |
+| IRES cedola (24%)               | -€ 480    | -€ 487    | -€ 495    | -€ 502       |
+| Totale riserve non distribuite  | € 101.520 | € 103.063 | € 104.630 | € 106.220    |
+| Tassa distribuzione utili (26%) | 0         | 0         | 0         | -€ 27.617    |
+| Netto persona fisica            | 0         | 0         | 0         | **€ 78.603** |
+
+Il problema è che sono passati anche 3 anni, e anche i singoli soci avrebbero potuto investire personalmente in titoli di stato al 2% annuale pagando però il 12.5% di tassazione (anzichè il 24% di IRES). Conveniva?
 
 
 
