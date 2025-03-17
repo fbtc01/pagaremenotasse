@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
-* [Investire liquidità](investire-liquidita.md)
+## Investire liquidità
+
+* [Investire liquidità](README.md)
+* [Apertura conto](investire-liquidita/apertura-conto.md)
