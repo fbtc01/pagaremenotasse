@@ -4,12 +4,15 @@ description: Guide per il risparmio fiscale per imprenditori italiani
 
 # Pagare meno tasse
 
-In Italia la tassazione è abbastanza alta ma ci sono strategie fiscali che possono farti risparmiare. Spesso sono sconosciute e le veniamo a sapere in ritardo da altri imprenditori. \
-La frase tipica è: "ma perchè il mio commercialista non me l'ha detto?".\
-\
-Così è nata questa wiki gratuita e libera che è stata scritta da imprenditori verso altri imprenditori. Non ci sono consulenti che ci guadagnano e chiunque può modificare e scrivere contenuti.&#x20;
+In Italia, la pressione fiscale per un imprenditore arriva al **53%**.&#x20;
 
-**Ovviamente, alcune informazioni potrebbero essere imprecise e potrebbero non applicarsi al tuo caso. Potresti incorrere in sanzioni e non ci prendiamo alcuna responsabilità. Quindi è sempre consigliato parlarne con il tuo consulente fiscale prima di fare qualsiasi operazione.**
+Tuttavia, esistono strategie legali per ridurre il carico fiscale, spesso poco conosciute e scoperte troppo tardi, magari parlando con altri imprenditori. Quante volte ti sei chiesto: _“Ma perché il mio commercialista non me l’ha detto?”_
+
+È proprio da questa frustrazione che nasce questa wiki: una risorsa gratuita e aperta, scritta da imprenditori per imprenditori. Qui non troverai consulenti che cercano di venderti qualcosa, ma una comunità che condivide informazioni utili e pratiche.
+
+{% hint style="info" %}
+Ovviamente, alcune informazioni potrebbero non essere sempre aggiornate o applicabili al tuo caso specifico. Per questo motivo, prima di prendere qualsiasi decisione, ti consigliamo di confrontarti sempre con un professionista.
+{% endhint %}
 
 
 
