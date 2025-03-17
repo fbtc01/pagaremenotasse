@@ -1,5 +1,5 @@
 ---
-description: Come ottenere un rendimento dalla liquidità aziendale non utilizzata
+description: Come ottenere un rendimento dalla liquidità aziendale inutilizzata
 ---
 
 # Investire liquidità
