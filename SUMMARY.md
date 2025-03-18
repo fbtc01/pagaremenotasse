@@ -6,6 +6,7 @@
 ## Benefits
 
 * [Buoni regalo <50€](benefits/buoni-regalo-less-than-50eur.md)
+* [Affitto di casa](benefits/affitto-di-casa.md)
 
 ## Royalties
 
