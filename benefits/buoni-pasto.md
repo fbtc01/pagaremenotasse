@@ -4,7 +4,7 @@ Con i buoni pasto puoi risparmiare circa 2.000€ anno emettendo buoni da 8€ p
 
 **Come fare**
 
-1.  Iscriviti a una delle società che gestiscono i buoni pasto. In Italia ci sono:
+1.  Iscriviti a una delle società che gestiscono i buoni pasto. In Italia le migliori sono:
 
     * [Satispay](https://buonipasto.satispay.com/)
     * [Coverflex](https://www.coverflex.com/it/)
