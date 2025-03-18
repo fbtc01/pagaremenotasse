@@ -16,7 +16,7 @@
 ## Investire liquidità
 
 * [Investire liquidità](<README (1).md>)
-* [Apertura conto](investire-liquidita/apertura-conto.md)
+* [Apertura conto titoli per aziende](investire-liquidita/apertura-conto-titoli-per-aziende.md)
 * [Tassazione investimenti finanziari](investire-liquidita/tassazione-investimenti-finanziari.md)
 * [Investire come azienda vs privato](investire-liquidita/investire-come-azienda-vs-privato.md)
 * [Strumenti finanziari](investire-liquidita/strumenti-finanziari.md)
