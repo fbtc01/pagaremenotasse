@@ -19,7 +19,7 @@ Ipotizziamo il caso in cui la società generi 100.000 di utili e ci chiediamo se
 
 
 
-Vediamo invece il caso in cui la società non distribuisca immediatamente gli utili, ma li reinveste in titoli di stato a basso rischio al 2% di rendimento lordo  e poi vengono distribuiti ai soci dopo 3 anni. Il netto su persona fisica è di **78.600€** rispetto a **74.000€** nel caso precedente.
+Vediamo invece il caso in cui la società non distribuisca immediatamente gli utili, ma li reinveste in titoli di Stato a basso rischio al 2% di rendimento lordo  e poi vengono distribuiti ai soci dopo 3 anni.&#x20;
 
 |                                 | Anno 0    | Anno 1    | Anno 2    | Anno 3       |
 | ------------------------------- | --------- | --------- | --------- | ------------ |
