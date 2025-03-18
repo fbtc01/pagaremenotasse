@@ -18,19 +18,6 @@ Consula sempre il tuo consulente fiscale prima di applicare qualsiasi strategia.
 
 Se sei un imprenditore o consulente fiscale e vuoi diffondere la conoscenza ad altri imprenditori allora puoi farlo liberamente. Ecco come aggiungere/modificare articoli
 
-Vai al link su github [https://github.com/fbtc01/pagaremenotasse](https://github.com/fbtc01/pagaremenotasse) e assicurati di essere iscritto a github.com (è gratis)\
-Per aggiungere una guida clicca su "Aggiungi file"
+Vai al link su github [https://github.com/fbtc01/pagaremenotasse](https://github.com/fbtc01/pagaremenotasse), poi clicca su "Issues" e crea un nuovo post con la guida scritta da te.&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot 2025-03-17 at 22.24.09.png" alt=""><figcaption></figcaption></figure>
-
-Per modificare un contenuto esiste clicca su "Fork & Edit"\
-
-
-<div data-full-width="false"><figure><img src=".gitbook/assets/Screenshot 2025-03-17 at 22.22.31.png" alt=""><figcaption></figcaption></figure></div>
-
-Dopo che hai finito clicca su "Commit changes"
-
-<figure><img src=".gitbook/assets/Screenshot 2025-03-17 at 22.25.04.png" alt=""><figcaption></figcaption></figure>
-
-\
-Il contenuto andrà in approvazione e in caso sarà pubblicato sul sito.
+<figure><img src=".gitbook/assets/Screenshot 2025-03-18 at 11.01.58.png" alt=""><figcaption></figcaption></figure>
