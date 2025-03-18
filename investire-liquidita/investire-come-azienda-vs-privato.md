@@ -50,3 +50,9 @@ Adesso ipotizziamo che la società distribuisca al primo anno gli utili e poi si
 | Netto persona fisica                | € 75.295  | € 76.613 | € 77.953 | **€ 79.318** |
 
 Pertanto, se si prevede di mantenere la riserva utili e investirla in titoli di Stato italiano e poi alla fine distribuirla allora è più conveniente fare l'investimento direttamente come persona fisica in quanto la tassazione è minore. &#x20;
+
+### Quando conviene investire come società anzichè privato?
+
+Solo per gli strumenti finanziari che hanno una tassazione maggiore dell'IRES (24%), quindi tutti gli altri come azioni e ETF. In più, gli ETF non possono compensare le minusvalenze mentre invece con la società possono compensarsi con altri strumenti e con il reddito d'impresa.
+
+Un approccio alternativo è quello di non distribuire mai gli utili e metterli a riserva. Dopodichè utilizzare un ETF indice di mercato a distribuzione (es. high dividend world stock) e distribuire all'amministratore i dividendi di questo indice. Se il mercato scende di prezzo, allora la minusvalenza dell'ETF potrà compensarsi con il reddito societario di quell'anno. Portando un vantaggio di una minore tassazione IRES. Ricordarsi però che nel bilancio rimarra una minusvalenza e che potrebbe ridurre o portare in negativo l'utile di quell'anno. Questo potrebbe avere effetti sulla solvibilità, affidabilità o valutazione dell'azienda nei successivi anni.
