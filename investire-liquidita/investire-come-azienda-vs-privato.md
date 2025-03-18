@@ -19,7 +19,9 @@ Ipotizziamo il caso in cui la società generi 100.000 di utili e ci chiediamo se
 
 
 
-Vediamo invece il caso in cui la società non distribuisca immediatamente gli utili, ma li reinveste in titoli di Stato a basso rischio al 2% di rendimento lordo  e poi vengono distribuiti ai soci dopo 3 anni.&#x20;
+### Investire in titoli di Stato con la società e poi distribuire dopo 3 anni
+
+La società non distribuisce gli utili e quindi non paga il 26% di imposte. Avrà un capitale di partenza maggiore pari a €100.000€. Lo investe per 3 anni, in titoli di Stato al 3% anno, e poi distribuisce tutto ai soci. Il netto che riceve il socio a livello personale è **78.603€**
 
 |                                 | Anno 0    | Anno 1    | Anno 2    | Anno 3       |
 | ------------------------------- | --------- | --------- | --------- | ------------ |
@@ -30,7 +32,11 @@ Vediamo invece il caso in cui la società non distribuisca immediatamente gli ut
 | Tassa distribuzione utili (26%) |           |           |           | -€ 27.617    |
 | Netto persona fisica            |           |           |           | **€ 78.603** |
 
-Questo però deve essere confrontato con il caso in cui la società distribuisca gli utili ogni anno, la persona fisica investa nello stesso titolo governativo italiano al 2% con una tassazione del 12.5%. Otteniamo che il valore finale è leggermente superiore. \
+
+
+### Distribuire e poi investire come persona fisica in titoli di Stato
+
+Adesso ipotizziamo che la società distribuisca al primo anno gli utili e poi sia il socio a investire in titoli di Stato con il suo conto personale. Vediamo che nonostante il capitale di partenza sia pià basso (74.000€) dopo 3 anni si trova con un capitale maggiore perchè ha una tassazione minore (12.5%)\
 
 
 |                                     | Anno 0    | Anno 1   | Anno 2   | Anno 3       |
