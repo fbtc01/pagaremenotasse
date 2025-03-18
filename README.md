@@ -6,15 +6,13 @@ description: Guide per il risparmio fiscale per imprenditori italiani
 
 In Italia, la pressione fiscale per un imprenditore arriva al [4&#x37;**%**](le-imposte-per-le-imprese.md).&#x20;
 
-Tuttavia, esistono strategie legali per ridurre il carico fiscale, spesso poco conosciute e scoperte troppo tardi, magari parlando con altri imprenditori. Quante volte ti sei chiesto: _“Ma perché il mio commercialista non me l’ha detto?”_
+Esistono strategie legali per ridurre il carico fiscale, spesso poco conosciute e scoperte troppo tardi. Quante volte ti sei chiesto: _“Ma perché il mio commercialista non me l’ha detto?”_
 
-È proprio da questa frustrazione che nasce questa wiki: una risorsa gratuita e aperta, scritta da imprenditori per imprenditori. Qui non troverai consulenti che cercano di venderti qualcosa, ma una comunità che condivide informazioni utili e pratiche.
+È proprio da questa frustrazione che nasce questa wiki: una risorsa gratuita e aperta, scritta da imprenditori per imprenditori.&#x20;
 
 {% hint style="info" %}
-Ovviamente, alcune informazioni potrebbero non essere sempre aggiornate o applicabili al tuo caso specifico. Per questo motivo, prima di prendere qualsiasi decisione, ti consigliamo di confrontarti sempre con un professionista.
+Consula sempre il tuo consulente fiscale prima di applicare qualsiasi strategia. Le informazioni potrebbero essere incomplete e non applicarsi al tuo caso. Potresti incorrere in sanzioni se non applicate correttamente.
 {% endhint %}
-
-
 
 #### **Come contribuire**
 
