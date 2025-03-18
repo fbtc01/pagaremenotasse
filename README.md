@@ -16,8 +16,6 @@ Consula sempre il tuo consulente fiscale prima di applicare qualsiasi strategia.
 
 #### **Come contribuire**
 
-Se sei un imprenditore o consulente fiscale e vuoi diffondere la conoscenza ad altri imprenditori allora puoi farlo liberamente. Ecco come aggiungere/modificare articoli
-
-Vai al link su github [https://github.com/fbtc01/pagaremenotasse](https://github.com/fbtc01/pagaremenotasse), poi clicca su "Issues" e crea un nuovo post con la guida scritta da te.&#x20;
+Per scrivere una guida o modificare, vai a [https://github.com/fbtc01/pagaremenotasse](https://github.com/fbtc01/pagaremenotasse/issues) e clicca su "New Issues".&#x20;
 
 <figure><img src=".gitbook/assets/Screenshot 2025-03-18 at 11.01.58.png" alt=""><figcaption></figcaption></figure>
