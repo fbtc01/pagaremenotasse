@@ -1,6 +1,6 @@
 # Royalties software
 
-Se voi soci avete sviluppato un software che viene utilizzato dalla vostra società per generare una parte o tutti i ricavi della società, allora potreste ricevere un incasso che è tassato solo al **12-15%.**&#x20;
+Se voi soci avete sviluppato un software che viene utilizzato dalla vostra società per generare una parte o tutti i ricavi della società, allora potreste ricevere un reddito dalla vostra società che è tassato solo al **12-15%.**&#x20;
 
 **Ecco come procedere**
 
