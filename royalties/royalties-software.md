@@ -13,7 +13,7 @@ Se voi soci avete sviluppato un software che viene utilizzato dalla vostra socie
    Attenzione **- La registrazione del software deve essere fatto dalla PERSONA FISICA e NON dalla società. Se sbagliate questo passaggio perde tutto il vantaggio.**\
 
 2. **Contratto di licenza d'uso**\
-   E' un contratto per cui la persona fisica, che ha sviluppato e registrato il software a suo nome, lo andrà a concedere in lincenza alla software la quale potrà usarlo con un pagamento di un canone. Nel contratto deve essere indicato il numero di registro e data che avete ricevuto dalla SIAE. \
+   E' un contratto per cui la persona fisica, che ha sviluppato e registrato il software a suo nome, lo andrà a concedere in lincenza alla società, la quale potrà usarlo con un pagamento di un canone. Nel contratto deve essere indicato il numero di registro e data che avete ricevuto dalla SIAE. \
    \
    **Attenzione** - Poichè si tratta di un contratto tra un socio e la sua stessa società è facile sovrastimare il valore. E' consigliato rimanere su un canone che sia non più del **3-5%** del fatturato annuale della società.  L'importo può essere fisso (es. 2000€/mese) e/o come percentuale del fatturato generato grazie al software. \
    \
