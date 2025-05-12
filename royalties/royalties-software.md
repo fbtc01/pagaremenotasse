@@ -6,7 +6,7 @@ Se voi soci avete sviluppato un software che viene utilizzato dalla vostra socie
 
 1. **Deposito presso SIAE**\
    Il socio che ha sviluppato il software deve metterlo su un CD-ROM (si, quello di una volta) e consegnarlo alla SIAE nella richiesta di inserimento nel Pubblico Registro Software. \
-   Ci sono vari moduli da compilare e 117€ di costi amministrativi. 
+   Ci sono vari moduli da compilare e 126,62€ di costi amministrativi. 
    Trovate più informazioni presso il sito della SIAE: 
    [https://www.siae.it/it/cosa-facciamo/altri-servizi/pubblico-registro-software/](https://www.siae.it/it/cosa-facciamo/altri-servizi/pubblico-registro-software/)
    
