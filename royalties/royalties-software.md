@@ -1,16 +1,21 @@
 # Royalties software
 
-Se voi soci avete sviluppato un software che viene utilizzato dalla vostra società per generare una parte o tutti i ricavi della società, allora potreste ricevere un reddito dalla vostra società che è tassato solo al **12-15%.**&#x20;
+Se voi soci avete sviluppato un software che viene utilizzato dalla vostra società per generare una parte o tutti i ricavi della società, allora potreste ricevere un reddito dalla vostra società che è tassato solo al **12-15%** (solo IRPEF, INPS non si applica).  
+Questo strumento ha quindi un'efficienza dell'88-85% ovvero per ogni 100€ di costo all'impresa si ottengono 88-85€ di royalties netti nei tuoi conti personali.
 
 **Ecco come procedere**
 
 1. **Deposito presso SIAE**\
    Il socio che ha sviluppato il software deve metterlo su un CD-ROM (si, quello di una volta) e consegnarlo alla SIAE nella richiesta di inserimento nel Pubblico Registro Software. \
-   Ci sono vari moduli da compilare e 126,62€ di costi amministrativi. 
+   E' necessario compilare il modulo Mod. 349 e versare 126,62€ di costi amministrativi. 
    Trovate più informazioni presso il sito della SIAE: 
    [https://www.siae.it/it/cosa-facciamo/altri-servizi/pubblico-registro-software/](https://www.siae.it/it/cosa-facciamo/altri-servizi/pubblico-registro-software/)
    
    Attenzione **- La registrazione del software deve essere fatto dalla PERSONA FISICA e NON dalla società. Se sbagliate questo passaggio perde tutto il vantaggio.**
+
+   Qui sotto trovi un esempio di compilazione del modulo Mod. 349:
+   ![Pagina1 PRSW_Mod_349_7bce5f1a79](images/Pagina1_PRSW_Mod_349_7bce5f1a79.jpg)
+   ![Pagina2 PRSW_Mod_349_7bce5f1a79](images/Pagina2_PRSW_Mod_349_7bce5f1a79.jpg)
 
 2. **Contratto di licenza d'uso**\
    E' un contratto per cui la persona fisica, che ha sviluppato e registrato il software a suo nome, lo andrà a concedere in lincenza alla società, la quale potrà usarlo con un pagamento di un canone. Nel contratto deve essere indicato il numero di registro e data che avete ricevuto dalla SIAE. 
