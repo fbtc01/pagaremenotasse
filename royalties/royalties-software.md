@@ -1,6 +1,6 @@
 # Royalties software
 
-Se voi soci avete sviluppato un software che viene utilizzato dalla vostra società per generare una parte o tutti i ricavi della società, allora potreste ricevere un reddito dalla vostra società che è tassato solo al **12-15%.**&#x20; (solo IRPEF, INPS non si applica). 
+Se voi soci avete sviluppato un software che viene utilizzato dalla vostra società per generare una parte o tutti i ricavi della società, allora potreste ricevere un reddito dalla vostra società che è tassato solo al **12-15%** (solo IRPEF, INPS non si applica).  
 Questo strumento ha quindi un'efficienza dell'88-85% ovvero per ogni 100€ di costo all'impresa si ottengono 88-85€ di royalties netti nei tuoi conti personali.
 
 **Ecco come procedere**
