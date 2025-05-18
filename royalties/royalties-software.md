@@ -13,8 +13,8 @@ Se voi soci avete sviluppato un software che viene utilizzato dalla vostra socie
    Attenzione **- La registrazione del software deve essere fatto dalla PERSONA FISICA e NON dalla società. Se sbagliate questo passaggio perde tutto il vantaggio.**
 
    Qui sotto trovi un esempio di compilazione del modulo Mod. 349:
-   ![Pagina1 PRSW_Mod_349_7bce5f1a79](images/Pagina1_PRSW_Mod_349_7bce5f1a79.png)
-   ![Pagina2 PRSW_Mod_349_7bce5f1a79](images/Pagina2_PRSW_Mod_349_7bce5f1a79.png)
+   ![Pagina1 PRSW_Mod_349_7bce5f1a79](images/Pagina1_PRSW_Mod_349_7bce5f1a79.jpg)
+   ![Pagina2 PRSW_Mod_349_7bce5f1a79](images/Pagina2_PRSW_Mod_349_7bce5f1a79.jpg)
 
 2. **Contratto di licenza d'uso**\
    E' un contratto per cui la persona fisica, che ha sviluppato e registrato il software a suo nome, lo andrà a concedere in lincenza alla società, la quale potrà usarlo con un pagamento di un canone. Nel contratto deve essere indicato il numero di registro e data che avete ricevuto dalla SIAE. 
