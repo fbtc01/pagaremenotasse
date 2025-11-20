@@ -17,7 +17,8 @@ Questo strumento ha quindi un'efficienza fino all'85% ovvero per ogni 100€ di 
    ![Pagina1 PRSW_Mod_349_7bce5f1a79](images/Pagina1_PRSW_Mod_349_7bce5f1a79.jpg)
    ![Pagina2 PRSW_Mod_349_7bce5f1a79](images/Pagina2_PRSW_Mod_349_7bce5f1a79.jpg)
 
-2. **Contratto di licenza d'uso**\
+2. **Contratto di licenza d'uso**
+
    E' un contratto per cui la persona fisica, che ha sviluppato e registrato il software a suo nome, lo andrà a concedere in lincenza alla società, la quale potrà usarlo con un pagamento di un canone. Nel contratto deve essere indicato il numero di registro e data che avete ricevuto dalla SIAE. 
    
    **Attenzione** - Poichè si tratta di un contratto tra un socio e la sua stessa società è facile sovrastimare il valore. E' consigliato rimanere su un canone che sia non più del **3-5%** del fatturato annuale della società.  L'importo può essere fisso (es. 2000€/mese) e/o come percentuale del fatturato generato grazie al software. 
@@ -25,18 +26,28 @@ Questo strumento ha quindi un'efficienza fino all'85% ovvero per ogni 100€ di 
    Template contratto: [https://www.lexdo.it/modello/contratto-licenza-di-uso/](https://www.lexdo.it/modello/contratto-licenza-di-uso/)
 
 3. **Pagamento**
+
    In base alle scadenze di pagamento che sono state pattuite dovrete emettere una notula con la quale effettuate il pagamento dalla società alla persona fisica. Il mese successivo verranno addebitate le imposte.
 
 4. **Esempio**
-   Considerando un depositario di software Under 35, si ha una deduzione del 40% dell'imponibile IRPEF. (Se over35, si parla del 25%).
-   Consideriamo un costo azienda di 40000€
-   L'imponibile IRPEF per il depositario è pertanto (1-0.4)*40000€ = 24000€
+
+   Considerando un depositario di software Under35, si ha una deduzione del 40% dell'imponibile IRPEF. (Se Over35, si parla del 25%).
+
+   Consideriamo un costo azienda di 40000€.
+
+   L'imponibile IRPEF per il depositario è pertanto (1-0.4)×40000€ = 24000€
+
    L'IRPEF va pagato secondo una strategia di Acconto e Saldo.
-   L'acconto è in carico alla società che versa per contro del depositario il 20% dell'imponibile: 24000€*0.2 = 4800€
-   Il Saldo verrà pagato dal depositario in sede di dichiarazione dei redditi secondo le nomre consuete. Ai fini dell'esempio cosideriamo che il depositario non abbia nessun altro reddito pertanto ha un reddito totale di 24000€ e verrà applicata l'aliquota IRPEF del 23% (<28000€)
-   Il totale IRPEF da pagare è quindi di 24000*0.23 = 5520€ di cui 4800€ già pagati tramite acconto dalla società e 5520€-4800€ = 720€ che il depositario dovrà pagare in sede di dichiarazione dei redditi.
-   In totale pertanto il netto spendibile dal depositario sarà di 40000-5520€ = 34480€
-   L'efficienza risulta quindi essere 34480€/40000€ = 86.2%
+   L'acconto è in carico alla società che versa per contro del depositario il 20% dell'imponibile: 24000€×0.2 = 4800€
+   Il Saldo verrà pagato dal depositario in sede di dichiarazione dei redditi. Ai fini dell'esempio cosideriamo che il depositario non abbia nessun altro reddito pertanto ha un reddito totale di 24000€ in dichiarazione dei redditi senza altre detrazioni o deduzioni, verrà applicata l'aliquota IRPEF del 23% (per redditi <28000€).
+
+   Il totale IRPEF da pagare è quindi di 24000×0.23 = 5520€ di cui 
+   - 4800€ già pagati tramite acconto dalla società 
+   - 5520€-4800€ = 720€ che il depositario dovrà pagare in sede di dichiarazione dei redditi.
+
+   In totale il netto spendibile dal depositario sarà di 40000-5520€ = 34480€.
+   
+   L'efficienza risulta quindi essere 34480€/40000€ = **86.2%**
 
 
    [https://www.ilcommercialistaonline.it/royalties-e-diritto-dautore-qual-e-il-trattamento-fiscale/](https://www.ilcommercialistaonline.it/royalties-e-diritto-dautore-qual-e-il-trattamento-fiscale/)
